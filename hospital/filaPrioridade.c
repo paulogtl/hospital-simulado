@@ -1,4 +1,4 @@
-#include "hospital.h"
+#include "paciente.h"
 
 /* ============================================================
    FILA DE PRIORIDADE COM PONTEIRO — Emergencia
