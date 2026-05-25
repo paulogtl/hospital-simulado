@@ -1,10 +1,10 @@
 # Hospital Simulado
 ---
-##Objetivo:
+## Objetivo:
 Desenvolver um sistema em linguagem C que simule o fluxo de pacientes em um
 hospital utilizando Pilha, Fila e Fila Circular, implementadas com vetores (arrays).
 ---
-##Requisitos Obrigatórios
+## Requisitos Obrigatórios
 1. Cadastro de Paciente
 - Nome (string)
 - Idade (int)
