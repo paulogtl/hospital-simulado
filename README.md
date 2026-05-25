@@ -18,9 +18,9 @@ hospital utilizando Pilha, Fila e Fila Circular, implementadas com vetores (arra
 - Relatórios
 - Sair
 3. Implementação das Estruturas
-- Pilha: vetor (array) com controle de topo
-- Fila: vetor (array) com controle de início e fim
-- Fila Circular: vetor de tamanho 8 com índices circulares
+- Pilha (LIFO): Emergência
+- Fila (FIFO): Consultas Agendadas
+- Fila Circular: Exames/Laboratório
 4. Regras de Negócio
 - Pacientes com gravidade 4 ou 5 devem ser direcionados para Emergência
 - Ao atender, exibir os dados do paciente removido
